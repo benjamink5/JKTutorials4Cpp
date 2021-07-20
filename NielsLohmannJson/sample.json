@@ -1,0 +1,22 @@
+{
+  "sorted_metaarray": [
+    {
+      "hobby": [
+        "reading",
+        "movie",
+        "swimming"
+      ]
+    },
+    {
+      "language": [
+        "korean",
+        "engligh"
+      ]
+    }
+  ],
+  "metaarray": {
+    "language": ["chinese", "english"],
+    "hobby": ["reading", "movie", "cycling"]
+ },
+  "metaarray_key_order":["hobby", "language"]
+}
